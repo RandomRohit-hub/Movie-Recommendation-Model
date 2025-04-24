@@ -5,7 +5,7 @@ A simple content-based movie recommendation system built using **Streamlit** and
 ---
 
 ## 🚀 Demo
-<!-- Optional: Add a gif or screenshot -->
+https://movie-recommendation-model-7rlxdnkigpwovswcgyzmfz.streamlit.app/<!-- Optional: Add a gif or screenshot -->
 
 ---
 
